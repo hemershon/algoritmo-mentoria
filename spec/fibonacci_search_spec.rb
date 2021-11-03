@@ -6,6 +6,6 @@ describe FibonacciSearch do
 
     x = 20
 
-  expect(FibonacciSearch.search(array, x)).to eq 1
+  expect(FibonacciSearch.search(array, x)).to eq 4
   end
 end
